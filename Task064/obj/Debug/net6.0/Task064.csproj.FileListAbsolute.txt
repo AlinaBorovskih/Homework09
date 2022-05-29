@@ -1,0 +1,15 @@
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\bin\Debug\net6.0\Task064.exe
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\bin\Debug\net6.0\Task064.deps.json
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\bin\Debug\net6.0\Task064.runtimeconfig.json
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\bin\Debug\net6.0\Task064.dll
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\bin\Debug\net6.0\Task064.pdb
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.csproj.AssemblyReference.cache
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.AssemblyInfoInputs.cache
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.AssemblyInfo.cs
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.csproj.CoreCompileInputs.cache
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.dll
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\refint\Task064.dll
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.pdb
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\Task064.genruntimeconfig.cache
+D:\Алина Обучение\Семинары\3. знакомство с языками програмирования\урок 9\Homework09\Tasks\Task064\obj\Debug\net6.0\ref\Task064.dll
